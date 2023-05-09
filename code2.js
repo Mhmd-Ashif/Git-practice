@@ -1,2 +1,2 @@
 console.log("code2.js");
-console.log("Version 2");
+console.log("Version 22");
